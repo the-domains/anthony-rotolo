@@ -1,0 +1,28 @@
+name: Anthony Rotolo
+favicon: null
+layout_spectrum: 0.1944018506910652
+typography_spectrum: 0.016763562336564064
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.13082041265442967
+  lightness: 0.5737970296759158
+  saturation: 0.4967970089055598
+  rhythmicContrast: 0.3835014454089105
+purpose: []
